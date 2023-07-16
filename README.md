@@ -6,6 +6,7 @@ and one main program to do operations on a vsam file
 which we created.
 
 -> PBEG0006 is the main program and resposible for I/O operations and calling the sub program
+
 -> PBEGIDX is the sub program and resposible for all the VSAM file related operations
 
 ## How it works
